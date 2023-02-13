@@ -1,0 +1,40 @@
+﻿  pch.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  MFCApplication1.cpp
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(14,1): warning C4005: “R2_NOT”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(69): message : 参见“R2_NOT”的前一个定义
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  MFCApplication1Doc.cpp
+  MFCApplication1View.cpp
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(14,1): warning C4005: “R2_NOT”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(69): message : 参见“R2_NOT”的前一个定义
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(121,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(136,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,70): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,55): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\imomi\Desktop\c++\MFCApplication1\MFCApplication1\MFCApplication1View.h(142,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  正在生成代码...
+  MFCApplication1.vcxproj -> C:\Users\imomi\Desktop\c++\MFCApplication1\x64\Debug\MFCApplication1.exe
